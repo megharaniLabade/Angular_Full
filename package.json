@@ -1,0 +1,24 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/megharaniLabade/Angular_Full.git"
+  },
+  "author": "megha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/megharaniLabade/Angular_Full/issues"
+  },
+  "homepage": "https://github.com/megharaniLabade/Angular_Full#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.5.1",
+    "nodemon": "^3.1.4"
+  }
+}
